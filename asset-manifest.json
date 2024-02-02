@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ami-kaba.github.io/Netflix-Clone-project/static/css/main.4db1f24a.css",
+    "main.js": "/Ami-kaba.github.io/Netflix-Clone-project/static/js/main.ac0782d0.js",
+    "static/media/NetflixLogo.png": "/Ami-kaba.github.io/Netflix-Clone-project/static/media/NetflixLogo.73095284cd79acda4276.png",
+    "index.html": "/Ami-kaba.github.io/Netflix-Clone-project/index.html",
+    "main.4db1f24a.css.map": "/Ami-kaba.github.io/Netflix-Clone-project/static/css/main.4db1f24a.css.map",
+    "main.ac0782d0.js.map": "/Ami-kaba.github.io/Netflix-Clone-project/static/js/main.ac0782d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db1f24a.css",
+    "static/js/main.ac0782d0.js"
+  ]
+}
