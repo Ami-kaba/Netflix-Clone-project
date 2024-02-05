@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Ami-kaba.github.io/Netflix-Clone-project/static/css/main.4db1f24a.css",
-    "main.js": "/Ami-kaba.github.io/Netflix-Clone-project/static/js/main.ac0782d0.js",
-    "static/media/NetflixLogo.png": "/Ami-kaba.github.io/Netflix-Clone-project/static/media/NetflixLogo.73095284cd79acda4276.png",
-    "index.html": "/Ami-kaba.github.io/Netflix-Clone-project/index.html",
-    "main.4db1f24a.css.map": "/Ami-kaba.github.io/Netflix-Clone-project/static/css/main.4db1f24a.css.map",
-    "main.ac0782d0.js.map": "/Ami-kaba.github.io/Netflix-Clone-project/static/js/main.ac0782d0.js.map"
+    "main.css": "/Netflix-Clone-project/static/css/main.4db1f24a.css",
+    "main.js": "/Netflix-Clone-project/static/js/main.4003a9bd.js",
+    "static/media/NetflixLogo.png": "/Netflix-Clone-project/static/media/NetflixLogo.73095284cd79acda4276.png",
+    "index.html": "/Netflix-Clone-project/index.html",
+    "main.4db1f24a.css.map": "/Netflix-Clone-project/static/css/main.4db1f24a.css.map",
+    "main.4003a9bd.js.map": "/Netflix-Clone-project/static/js/main.4003a9bd.js.map"
   },
   "entrypoints": [
     "static/css/main.4db1f24a.css",
-    "static/js/main.ac0782d0.js"
+    "static/js/main.4003a9bd.js"
   ]
 }
