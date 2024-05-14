@@ -12,6 +12,7 @@ const Footer = () => {
           <InstagramIcon />
           <YouTubeIcon />
         </div>
+        {/* footer data */}
         <div className="footer_data">
           <div>
             <ul>
@@ -45,9 +46,7 @@ const Footer = () => {
         <div className="service_code">
           <p>service_code</p>
         </div>
-        <div className="copy_write">
-          &copy;1997-2024 Netflix,Inc.
-          </div>
+        <div className="copy_write">&copy;1997-2024 Netflix,Inc.</div>
       </div>
     </div>
   );
