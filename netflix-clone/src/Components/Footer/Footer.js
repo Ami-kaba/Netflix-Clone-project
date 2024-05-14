@@ -13,7 +13,7 @@ const Footer = () => {
           <YouTubeIcon />
         </div>
         {/* footer data */}
-        {/* footer data */}
+
         <div className="footer_data">
           <div>
             <ul>
